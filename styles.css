@@ -9,7 +9,11 @@ p{
     line-height: 50px;
 }
 
-ul{border-width: 2px;
+/* ul{border-width: 2px;
 border-style: solid;
 border-color: skyblue;
-}
+} */
+
+ul{border: 2px solid skyblue;
+
+text-shadow: 1px 1px lightgray;}
