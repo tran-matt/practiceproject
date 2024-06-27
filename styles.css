@@ -1,7 +1,15 @@
 h1{
     color: orange;
+    text-align: center;
 }
 
 p{
     color: slateblue;
+    text-align: right;
+    line-height: 50px;
+}
+
+ul{border-width: 2px;
+border-style: solid;
+border-color:greenyellow;
 }
