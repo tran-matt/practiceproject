@@ -2,8 +2,8 @@ h1{
     color: orange;
     text-align: center;
 }
-h2 {
-    color: navy;
+.content {
+    color: rgb(66, 215, 66);
 }
 p{
     color: slateblue;
