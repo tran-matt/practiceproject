@@ -19,3 +19,7 @@ border-color: skyblue;
 ul{border: 2px solid skyblue;
 
 text-shadow: 1px 1px lightgray;}
+
+div{
+    color:red;
+}
