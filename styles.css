@@ -22,4 +22,5 @@ text-shadow: 1px 1px lightgray;}
 
 div{
     color:red;
+    border: 1px solid grey;
 }
